@@ -1,0 +1,30 @@
+div{
+	border: 1px solid black;
+	background: grey;
+}
+
+.cuadrado{
+	margin: 5px;
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+}
+
+.externo{
+	margin: 5px;
+	height: 100px;
+	width: 300px;
+}
+
+.interno{
+	margin: 10px;
+	height: 75px;
+	width: 75px;
+	display: inline-block;
+}
+.cuadrado-final{
+	margin: 5px;
+	height: 100px;
+	width: 100px;
+}
+
